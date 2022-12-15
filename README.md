@@ -9,4 +9,4 @@ A interface do teclado reproduz sons de uma bateria ao usuário clicar ou pressi
 - Reprodução de sons.
 - Desenvolver páginas mais dinâmicas.
 
-#### Link para acessar o projeto:
+#### Link para acessar o projeto: https://raphaeldertinatti.github.io/alura_midi_js/
