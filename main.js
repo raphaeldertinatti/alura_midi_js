@@ -1,10 +1,10 @@
 function tocaSom(seletorAudio)
 {
-    const elemento = document.querySelector(seletorAudio);    
+    const elemento = document.querySelector(seletorAudio);
 
-    if(elemento && elemento.localname === 'audio')
+    if(elemento != null && elemento.localName === 'audio')
     {    
-        element.play();       
+        elemento.play();       
     }
     else
     {
