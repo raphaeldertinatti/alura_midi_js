@@ -1,12 +1,12 @@
-# Teclado Musical Alura_midi
-Projeto de página web com botões sonoros, desenvolvido em HTML, CSS e JavaScript.
+# Musical Keyboard Alura_midi
+Project of a WebPage with sound buttons, developed with HTML, CSS and JavaScript.
 
-### Sobre
-A interface do teclado reproduz sons de uma bateria ao usuário clicar ou pressionar com teclado os seus botões.
+### About
+The interface of the keyboard play sounds of drums when the user click or press a button on keyboard.
 
-### Objetivos
-- Implementar funções com JavaScript.
-- Reprodução de sons.
-- Desenvolver páginas mais dinâmicas.
+### Objectives
+- Implement functions with JavaScript.
+- Playback of sounds.
+- Develop more dynamic pages.
 
-#### Link para acessar o projeto: https://raphaeldertinatti-alura-midi-js.vercel.app/
+#### Link to the project: https://raphaeldertinatti-alura-midi-js.vercel.app/
